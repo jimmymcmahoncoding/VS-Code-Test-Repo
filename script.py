@@ -16,3 +16,10 @@ def greet(who_to_greet):
 
 name = input("Your Name?")
 print("Hello,", name)
+
+
+def new_function():
+    print("I am a new function.")
+
+
+new_function()
