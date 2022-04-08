@@ -23,3 +23,6 @@ def new_function():
 
 
 new_function()
+
+for i in range(1, 4):
+    print(i)
