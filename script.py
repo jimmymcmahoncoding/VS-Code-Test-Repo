@@ -9,6 +9,8 @@ print(sys.executable)
 
 test_variable = 1
 
+test_browser = "I am a new edit from the browser"
+
 def greet(who_to_greet):
     greeting = f"Hello, {who_to_greet}"
     return greeting
