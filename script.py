@@ -9,6 +9,10 @@ print(sys.executable)
 
 test_variable = 1
 
+
+test_vs_code = "I am an edit from VS Code."
+
+
 def greet(who_to_greet):
     greeting = f"Hello, {who_to_greet}"
     return greeting
